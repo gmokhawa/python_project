@@ -1,0 +1,1 @@
+#Exit. This fucntion finished the execution of the program
